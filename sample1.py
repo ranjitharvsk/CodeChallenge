@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import boto3
 import uuid
 # Let's use Amazon S3

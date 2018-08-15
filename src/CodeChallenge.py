@@ -12,6 +12,7 @@ def get_max_profit(stock_prices_yesterday):
         if len(newStockPricesList) > 0:
             maxStockPrice = max(newStockPricesList)
             if maxStockPrice > minStockPrice:
+                print maxStockPrice - minStockPrice
                 return maxStockPrice - minStockPrice
             else:
                 return 0

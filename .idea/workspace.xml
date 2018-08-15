@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff801889-b914-43d7-9f64-b1a60b73ab1c" name="Default" comment="" />
+    <list default="true" id="ff801889-b914-43d7-9f64-b1a60b73ab1c" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodeChallenge.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodeChallenge.py" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,8 +18,8 @@
       <file leaf-file-name="CodeChallenge.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/CodeChallenge.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="34" column="41" lean-forward="true" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
+            <state relative-caret-position="238">
+              <caret line="14" column="51" lean-forward="true" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -25,6 +28,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -211,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1534344882111</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="[Code Challenge Test]&#10;used intellij  with py plugin for simple code challenge.">
+      <created>1534369316978</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1534369316978</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -253,9 +271,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="[Code Challenge Test]&#10;used intellij  with py plugin for simple code challenge." />
   </component>
   <component name="WindowStateProjectService">
-    <state width="223" height="332" key="Git.Branch.Popup" />
-    <state width="223" height="332" key="Git.Branch.Popup/1920.1080" />
-    <state width="223" height="332" key="Git.Branch.Popup@1920.1080@120dpi" />
+    <state width="233" height="342" key="Git.Branch.Popup" />
+    <state width="233" height="342" key="Git.Branch.Popup/1920.1080" />
+    <state width="233" height="342" key="Git.Branch.Popup@1920.1080@120dpi" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -288,8 +306,8 @@
     <entry file="file://$PROJECT_DIR$/src/test.py" />
     <entry file="file://$PROJECT_DIR$/src/CodeChallenge.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="34" column="41" lean-forward="true" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
+        <state relative-caret-position="238">
+          <caret line="14" column="51" lean-forward="true" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
         </state>
       </provider>
     </entry>
